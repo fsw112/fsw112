@@ -83,7 +83,7 @@ public class SmallChangeSysOOP {
                         choice = scanner.next();
                         if("y".equals(choice)||"n".equals(choice)){
                                 break;
-
+                               sdq
                         }
                 }
                 if(choice.equals("y")){
